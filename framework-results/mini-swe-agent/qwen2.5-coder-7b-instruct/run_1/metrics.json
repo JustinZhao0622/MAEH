@@ -1,0 +1,15 @@
+{
+  "framework": "mini-swe-agent-direct-vllm",
+  "model": "Qwen2.5-Coder-7B-Instruct",
+  "model_path": "/data/huggingface/Qwen2.5-Coder-7B-Instruct",
+  "run": 1,
+  "max_repair_rounds": 3,
+  "cases": 100,
+  "passed": 76,
+  "failed": 24,
+  "accuracy": 0.76,
+  "model_calls": 204,
+  "startup_time": 13.55494298200938,
+  "time": 936.1670249580056,
+  "average_response_time": 9.361670249580056
+}

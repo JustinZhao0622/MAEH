@@ -1,0 +1,16 @@
+{
+  "framework": "metagpt",
+  "model": "Qwen2.5-Coder-7B-Instruct",
+  "model_path": "/data/huggingface/Qwen2.5-Coder-7B-Instruct",
+  "run": 1,
+  "cases": 100,
+  "generated": 100,
+  "failed": 0,
+  "model_calls": 300,
+  "startup_time": 18.016629344998364,
+  "time": 12346.422815500002,
+  "average_response_time": 123.46422815500001,
+  "review_time": 2.0077062459968147,
+  "accuracy": 0.22,
+  "out_dir": "/root/code/MAEH/framework-results/metagpt/qwen2.5-coder-7b-instruct/run_1"
+}

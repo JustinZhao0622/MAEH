@@ -1,0 +1,17 @@
+{
+  "framework": "CAMEL",
+  "camel_version": "0.2.90",
+  "model": "Qwen2.5-Coder-7B-Instruct",
+  "model_path": "/data/huggingface/Qwen2.5-Coder-7B-Instruct",
+  "run": 1,
+  "cases": 100,
+  "passed": 60,
+  "failed": 40,
+  "accuracy": 0.6,
+  "model_calls": 269,
+  "startup_time": 18.01633745303843,
+  "time": 1170.0680436457624,
+  "average_response_time": 11.700680436457624,
+  "startup_time_included": false,
+  "out_dir": "/root/code/MAEH/framework-results/camel/qwen2.5-coder-7b-instruct/run_1"
+}

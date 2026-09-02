@@ -1,0 +1,16 @@
+{
+  "framework": "autogen",
+  "model": "Qwen2.5-Coder-7B-Instruct",
+  "model_path": "/data/huggingface/Qwen2.5-Coder-7B-Instruct",
+  "run": 1,
+  "cases": 100,
+  "generated": 100,
+  "failed": 0,
+  "model_calls": 300,
+  "startup_time": 96.180284699,
+  "time": 21068.322498546993,
+  "average_response_time": 210.68322498546993,
+  "review_time": 1.6195576630016149,
+  "accuracy": 0.25,
+  "out_dir": "/root/code/MAEH/framework-results/autogen/qwen2.5-coder-7b-instruct/run_1"
+}

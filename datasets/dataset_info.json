@@ -1,0 +1,11 @@
+{
+  "Train_data": {
+    "file_name": "/root/code/MAEH/datasets/maeh_glm52_sft.json",
+    "columns": {
+      "system": "system",
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}

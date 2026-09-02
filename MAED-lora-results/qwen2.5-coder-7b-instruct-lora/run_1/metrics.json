@@ -1,0 +1,8 @@
+{
+  "cases": 100,
+  "experiment_time": 58.79042676000972,
+  "average_response_time": 0.5879042676000972,
+  "merge_time_included": false,
+  "agent1_model": "/data/huggingface/Qwen2.5-Coder-7B-Instruct",
+  "agent2_model": "/root/code/MAEH/datasets/train_2026-08-02-21-31-45-merged"
+}

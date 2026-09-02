@@ -1,0 +1,302 @@
+[
+  {
+    "emergency": "A区固定供电资源FIX-A-POWER-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定供电资源FIX-A-POWER-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定液压资源FIX-A-HYDRAULIC-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定液压资源FIX-A-HYDRAULIC-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定燃油资源FIX-A-FUEL-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定燃油资源FIX-A-FUEL-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定供氧资源FIX-A-OXYGEN-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "A区固定供氧资源FIX-A-OXYGEN-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定供电资源FIX-B-POWER-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定供电资源FIX-B-POWER-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定液压资源FIX-B-HYDRAULIC-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定液压资源FIX-B-HYDRAULIC-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定燃油资源FIX-B-FUEL-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定燃油资源FIX-B-FUEL-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定供氧资源FIX-B-OXYGEN-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "B区固定供氧资源FIX-B-OXYGEN-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定供电资源FIX-C-POWER-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定供电资源FIX-C-POWER-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定液压资源FIX-C-HYDRAULIC-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定液压资源FIX-C-HYDRAULIC-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定燃油资源FIX-C-FUEL-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定燃油资源FIX-C-FUEL-02发生故障，当前不可用"
+  },
+  {
+    "emergency": "C区固定供氧资源FIX-C-OXYGEN-01发生故障，当前不可用"
+  },
+  {
+    "emergency": "移动供电资源MOB-POWER-01在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供电资源MOB-POWER-02在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供电资源MOB-POWER-03在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供电资源MOB-POWER-04在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动液压资源MOB-HYDRAULIC-01在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动液压资源MOB-HYDRAULIC-02在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动液压资源MOB-HYDRAULIC-03在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动液压资源MOB-HYDRAULIC-04在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动燃油资源MOB-FUEL-01在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动燃油资源MOB-FUEL-02在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动燃油资源MOB-FUEL-03在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动燃油资源MOB-FUEL-04在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供氧资源MOB-OXYGEN-01在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供氧资源MOB-OXYGEN-02在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供氧资源MOB-OXYGEN-03在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动供氧资源MOB-OXYGEN-04在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动牵引车资源MOB-TOW-01在保障过程中发生故障"
+  },
+  {
+    "emergency": "移动牵引车资源MOB-TOW-02在保障过程中发生故障"
+  },
+  {
+    "emergency": "起飞跑道R1因设备异常停止使用"
+  },
+  {
+    "emergency": "起飞跑道R2因道面局部受损停止使用"
+  },
+  {
+    "emergency": "起飞跑道R3因区域内存在障碍物停止使用"
+  },
+  {
+    "emergency": "起飞跑道R1因状态检测异常停止使用"
+  },
+  {
+    "emergency": "起飞跑道R2因通行条件不满足停止使用"
+  },
+  {
+    "emergency": "起飞跑道R3因安全区域受限停止使用"
+  },
+  {
+    "emergency": "起飞跑道R1因照明设备异常停止使用"
+  },
+  {
+    "emergency": "起飞跑道R2因拦阻装置异常占用停止使用"
+  },
+  {
+    "emergency": "起飞跑道R3因引导标志异常停止使用"
+  },
+  {
+    "emergency": "起飞跑道R1因区域内存在作业冲突停止使用"
+  },
+  {
+    "emergency": "起飞跑道R2因道面受到污染停止使用"
+  },
+  {
+    "emergency": "起飞跑道R3因消防保障区域被占用停止使用"
+  },
+  {
+    "emergency": "起飞跑道R1因临时检查任务占用停止使用"
+  },
+  {
+    "emergency": "起飞跑道R2因出口通道受阻停止使用"
+  },
+  {
+    "emergency": "起飞跑道R3因连接通道通行受限停止使用"
+  },
+  {
+    "emergency": "起飞跑道R1因维护作业占用停止使用"
+  },
+  {
+    "emergency": "L1至A1之间的路径SEG-L1-A1因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至A2之间的路径SEG-L2-A2因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至A3之间的路径SEG-L1-A3因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至A4之间的路径SEG-L2-A4因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至A5之间的路径SEG-L1-A5因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至A6之间的路径SEG-L2-A6因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至B1之间的路径SEG-L1-B1因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至B2之间的路径SEG-L2-B2因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至B3之间的路径SEG-L1-B3因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至B4之间的路径SEG-L2-B4因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至B5之间的路径SEG-L1-B5因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至B6之间的路径SEG-L2-B6因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至B7之间的路径SEG-L1-B7因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至B8之间的路径SEG-L2-B8因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L1至C1之间的路径SEG-L1-C1因局部区域受限不可通行"
+  },
+  {
+    "emergency": "L2至C2之间的路径SEG-L2-C2因局部区域受限不可通行"
+  },
+  {
+    "emergency": "舰载机AC01计划于08:00到达，现延迟13分钟，预计于08:13到达"
+  },
+  {
+    "emergency": "舰载机AC02计划于08:03到达，现延迟11分钟，预计于08:14到达"
+  },
+  {
+    "emergency": "舰载机AC03计划于08:06到达，现延迟4分钟，预计于08:10到达"
+  },
+  {
+    "emergency": "舰载机AC04计划于08:09到达，现延迟6分钟，预计于08:15到达"
+  },
+  {
+    "emergency": "舰载机AC05计划于08:12到达，现延迟10分钟，预计于08:22到达"
+  },
+  {
+    "emergency": "舰载机AC06计划于08:15到达，现延迟4分钟，预计于08:19到达"
+  },
+  {
+    "emergency": "舰载机AC07计划于08:18到达，现延迟2分钟，预计于08:20到达"
+  },
+  {
+    "emergency": "舰载机AC08计划于08:21到达，现延迟13分钟，预计于08:34到达"
+  },
+  {
+    "emergency": "舰载机AC09计划于08:24到达，现延迟11分钟，预计于08:35到达"
+  },
+  {
+    "emergency": "舰载机AC10计划于08:27到达，现延迟8分钟，预计于08:35到达"
+  },
+  {
+    "emergency": "舰载机AC11计划于08:30到达，现延迟10分钟，预计于08:40到达"
+  },
+  {
+    "emergency": "舰载机AC12计划于08:33到达，现延迟11分钟，预计于08:44到达"
+  },
+  {
+    "emergency": "舰载机AC13计划于08:36到达，现延迟2分钟，预计于08:38到达"
+  },
+  {
+    "emergency": "舰载机AC14计划于08:39到达，现延迟4分钟，预计于08:43到达"
+  },
+  {
+    "emergency": "保障站位A1发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位A2发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位A3发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位A4发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位A5发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位A6发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B1发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B2发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B3发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B4发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B5发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B6发生故障并停止使用"
+  },
+  {
+    "emergency": "保障站位B7发生故障并停止使用"
+  }
+]

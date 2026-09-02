@@ -1,0 +1,44 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+!.env.template
+*_api_key.txt
+*_api_keys.json
+
+# Python environments and caches
+.venv/
+.venv-*/
+.venv-camel/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# LoRA checkpoints and merged model weights
+/datasets/train_*/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+*.swp
+*~
+
+# Local agent/editor metadata
+/.agents/
+/.codex/
+.idea/
+.vscode/
+.DS_Store
